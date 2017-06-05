@@ -1,0 +1,62 @@
+#container{
+	text-align:center;
+	margin: 0 auto;
+	width:800px;
+height:1000px;
+
+}
+#left{
+	width:300px;
+height:1000px;
+background-color:#296267;	
+float:left;
+
+
+}
+#right{
+	width:500px;
+height:1000px;
+background-color:#E1D9DE;
+float:right;	
+
+}
+ #img {
+	 /*border:2px, solid,#3AE2CE;	
+border-radius: 70px;*/	 
+	margin: 50px 20px;
+	radius: 20px 10px;
+	
+	
+}
+#name{
+	background-color:#616161;
+	/*border:2px, solid,#3AE2CE;	
+border-radius: 25px;*/	
+margin:10px 20px ;
+text-align:left;
+}
+h1, h4, h2{
+	color:white;
+}
+#contact{
+	background-color:#616161;
+	margin:40px 20px ;
+	text-align:left;
+}
+#work{
+	
+	background-color:#616161;
+	margin:40px 20px ;
+	text-align:left;
+}
+.li{
+	background-color:#296267;
+}
+li{
+	list-style-type:square;
+}
+#edu{
+	background-color:#616161;
+	margin:50px 20px ;
+	text-align:left;
+}
